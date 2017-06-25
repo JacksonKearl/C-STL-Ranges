@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5FE0FDF11F000BC400BAA44F"
-               BuildableName = "libRange.a"
-               BlueprintName = "Range"
+               BlueprintIdentifier = "5FE0FE051F000E4800BAA44F"
+               BuildableName = "Tests"
+               BlueprintName = "Tests"
                ReferencedContainer = "container:Range.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5FE0FE051F000E4800BAA44F"
+            BuildableName = "Tests"
+            BlueprintName = "Tests"
+            ReferencedContainer = "container:Range.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -42,15 +51,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5FE0FDF11F000BC400BAA44F"
-            BuildableName = "libRange.a"
-            BlueprintName = "Range"
+            BlueprintIdentifier = "5FE0FE051F000E4800BAA44F"
+            BuildableName = "Tests"
+            BlueprintName = "Tests"
             ReferencedContainer = "container:Range.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -60,15 +70,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5FE0FDF11F000BC400BAA44F"
-            BuildableName = "libRange.a"
-            BlueprintName = "Range"
+            BlueprintIdentifier = "5FE0FE051F000E4800BAA44F"
+            BuildableName = "Tests"
+            BlueprintName = "Tests"
             ReferencedContainer = "container:Range.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
